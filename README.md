@@ -45,6 +45,7 @@ Functional Simulation:
 
 ## Fig 2: Invoke the Cadence Environment
 
+![image](https://github.com/user-attachments/assets/5259b9a9-a817-4cac-8f32-dbabda7d844b)
 
 ## Creating Source Code:
 
@@ -77,11 +78,15 @@ It will invoke the nclaunch window for functional simulation we can compile,elab
 
 ## Fig 3: Setting Multi-step simulation
 
+![image](https://github.com/user-attachments/assets/fba8bfa0-f6ea-485a-84a7-40b63c13caa5)
+
 Select Multiple Step and then select “Create cds.lib File” as shown in below figure
 
 Click the cds.lib file and save the file by clicking on Save option
 
 ## Fig 4: cds.lib file Creation
+
+![image](https://github.com/user-attachments/assets/ef621024-1079-44f9-84b6-4027efdc9882)
 
 	Save cds.lib file and select the correct option for cds.lib file format based on the  HDL Language and Libraries used.
 
@@ -90,6 +95,8 @@ Click the cds.lib file and save the file by clicking on Save option
 	We are simulating verilog design without using any libraries
 
 ## Fig 5: Selection of Don’t include any libraries
+
+![image](https://github.com/user-attachments/assets/5c1351e7-68c2-4283-83b1-528babfa1353)
 
 	A Click “OK” in the “nclaunch: Open Design Directory” window
 
@@ -100,6 +107,8 @@ Click the cds.lib file and save the file by clicking on Save option
 	Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation
 
 ## Fig 6: Nclaunch Window
+
+![image](https://github.com/user-attachments/assets/5864854c-71c3-4b97-a4ca-3eaab3df2117)
 
 To perform the function simulation, the following three steps are involved Compilation, Elaboration and Simulation.
 
@@ -154,6 +163,8 @@ It contains statements that map logical library names to their physical director
 
 ## Fig 8: Elaboration Launch Option
 
+![image](https://github.com/user-attachments/assets/79e3d462-8777-404f-bf78-97235d6a7df3)
+
 ### Step 3: Simulation: – Simulate with the given test vectors over a period of time to observe the output behaviour. 
 
 	Inputs: Compiled and Elaborated top level module name 
@@ -166,9 +177,15 @@ It contains statements that map logical library names to their physical director
 
 ## Fig 9: Design Browser window for simulation
 
+![image](https://github.com/user-attachments/assets/46718418-5ff7-40a8-87fe-22b4e02e24b9)
+
 ## Fig 10: Simulation Waveform Window
 
+![image](https://github.com/user-attachments/assets/681a2dc1-c57a-422e-ba9c-4b18314fe7f1)
+
 ## Fig 11: Simulation Waveform Window
+
+![image](https://github.com/user-attachments/assets/fd12f461-b4cb-4131-9cdf-00673f67e279)
 
 ### Result
 
